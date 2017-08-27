@@ -15,6 +15,7 @@
     --загрузка карты
     local map = require "modules.map"
 
+    local playerName = composer.getVariable("textname")
 
     --загрузка джойстика
     local joystick = require "lib.joystick":new(W*0.1,H*0.81,W*0.1,W*0.05)
@@ -25,7 +26,7 @@
 
 
     --создание игрока
-    local player = require "modules.player":new(joystick,W*0.5,H*0.5,"player",button)
+    local player = require "modules.player":new(joystick,W*0.5,H*0.5,playerName,button)
 
 
 
