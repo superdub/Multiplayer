@@ -1,8 +1,8 @@
 # Multiplayer
-[![Love2d](https://img.shields.io/badge/love2d-engine-brightgreen.svg)](https://love2d.org/)
-[![Love2d](https://img.shields.io/badge/license-ZLIB-blue.svg?style=plastic)](https://en.wikipedia.org/wiki/Zlib)
+[![Love2d](https://img.shields.io/badge/corona%20SDK-engine-orange.svg)](https://coronalabs.com/)
 
-Local multiplayer on node js.Written in corona SDK.https://love2d.org/
+
+Local multiplayer on node js.Written in corona SDK.https://coronalabs.com/
 
 single
 
