@@ -1,5 +1,5 @@
 # Multiplayer
-[![Love2d](https://img.shields.io/badge/corona%20SDK-engine-orange.svg)](https://coronalabs.com/)
+[![CoronaSDK](https://img.shields.io/badge/corona%20SDK-engine-orange.svg)](https://coronalabs.com/)
 
 
 Local multiplayer on node js.The game is written in corona SDK.https://coronalabs.com/
